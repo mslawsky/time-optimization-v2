@@ -1,6 +1,6 @@
 # Time Optimization V.2 - Activity - Goal Alignment ⏱️
 
-## Purpose ❔
+## Purpose 🎯
 
 The fundamental purpose of tracking activities is to ensure alignment between daily actions and intended goals. This alignment becomes complex when considering that goals operate on different time horizons:
 
