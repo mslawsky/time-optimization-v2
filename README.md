@@ -4,10 +4,10 @@
 
 The fundamental purpose of tracking activities is to ensure alignment between daily actions and intended goals. This alignment becomes complex when considering that goals operate on different time horizons:
 
-- Short-Term Goals: Immediate outcomes and quick wins
-- Mid-Term Goals: Intermediate milestones and stepping stones
-- Long-Term Goals: Major objectives and transformational changes
-- Ongoing/Continuous Goals: Sustained practices and maintenance of standards
+- **Short-Term Goals**: Immediate outcomes and quick wins
+- **Mid-Term Goals**: Intermediate milestones and stepping stones
+- **Long-Term Goals**: Major objectives and transformational changes
+- **Ongoing/Continuous Goals**: Sustained practices and maintenance of standards
 
 ## Advanced Insights & Lessons Learned 🔎
 
