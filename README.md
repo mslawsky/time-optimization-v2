@@ -23,6 +23,7 @@ This analysis revealed a holistic approach to time-value optimization, consideri
    - The primary purpose of this tool is to **align daily activities with personal goals and values**, answering the question: *Why am I doing what I'm doing?*
    - Activities are **categorized by their contribution to short-term, mid-term, long-term, or continuous goals**.
    - **Continuous goals**, such as maintaining a happy marriage or fostering personal well-being, **require consistent effort without a specific endpoint or measurable payoff.**
+
 ![Activities to Goals Tree Map](data-vis-1.png)
 
 2. **Time-Value Alignment** ⏲️
@@ -33,6 +34,7 @@ This analysis revealed a holistic approach to time-value optimization, consideri
  	   * Foundation-building steps for long-term growth
  	   * Continuous activities maintaining sustained value
  	   * Momentum-building activities for future value
+
 ![Time-Value Dimension Bubble Chart](data-vis-2.png)
 
 3. **Core Values Alignment** 📐
@@ -40,12 +42,14 @@ This analysis revealed a holistic approach to time-value optimization, consideri
       - 32% alignment with primary values like Impact & Innovation
       - 28% alignment with secondary values such as Family Bonds & Connection
    - The relationship between core values alignment and value generation is examined both within and outside the pursuit of specific goals.
+
 ![Value-Goals Matrix](data-vis-3.png)
 
 4. **Resource Allocation Patterns** 📊
    - **Pareto Distribution**: While 23% of activities are responsible for generating the majority of extrinsic value, this analysis acknowledges the role of luck and external inputs.
    - **Opportunity Costs**: Due to the role of luck and the requirement of inputs from others, the analysis revealed the need to reorient activities where there is more control or autonomy over results.
    - **Continuous Inputs**: Some goals and values require ongoing effort without a clear endpoint, emphasizing the importance of maintenance and consistency.
+
 ![Goals by Time Horizon Chart](data-vis-4.png)
 
 ### Impact Analysis
