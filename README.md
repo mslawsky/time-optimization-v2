@@ -15,34 +15,34 @@ Analysis of 12 months of activity data (February 2024 - January 2025) to examine
 
 ---
 
-### Strategic Insights:
+### Strategic Insights: 💡
 
 Our analysis revealed a holistic approach to time-value optimization, considering time-to-value, core values, and the balance between short-term, long-term, and continuous priorities. This framework broadens the definition of value to include intrinsic value (e.g., happiness, fulfillment) alongside extrinsic outcomes, ensuring a more balanced and meaningful allocation of time and resources.
 
-1. **Activity Results - Goals Alignment**
-   - The primary purpose of this tool is to align daily activities with personal goals and values, answering the question: *Why do I do what I do?*
+1. **Activity Results - Goals Alignment** 🎯
+   - The primary purpose of this tool is to **align daily activities with personal goals and values**, answering the question: *Why do I do what I do?*
    - Activities are categorized by their contribution to short-term, mid-term, long-term, or continuous goals.
    - Continuous goals, such as maintaining a happy marriage or fostering personal well-being, require consistent effort without a specific endpoint or measurable payoff.
 
-2. **Time-Value Alignment**
-   - Multi-Dimensional Value Creation: Analysis reveals a balanced distribution across time horizons, from present moment to future value generation.
-   - Evolution of Focus: Shifted from goal-achievement-centric (past) to future-value-prioritization (2024), with 2025 targeting equilibrium between long-term and short-term value.
-   - Life-Work-Business Balance: Clear alignment across three major priorities: family life (Happy Marriage & Family), professional growth (higher level position), and business innovation (BPIS).
-   - Value Generation Patterns: Activities naturally cluster into three key dimensions:
+2. **Time-Value Alignment** ⏲️
+   - **Multi-Dimensional Value Creation:** Analysis reveals a balanced distribution across time horizons, from present moment to future value generation.
+   - **Evolution of Focus:** Shifted from goal-achievement-centric (past) to future-value-prioritization (2024), with 2025 targeting equilibrium between long-term and short-term value.
+   - **Life-Work-Business Balance**: Clear alignment across three major priorities: family life (Happy Marriage & Family), professional growth (higher level position), and business innovation (BPIS).
+   - **Value Generation Patterns:** Activities naturally cluster into three key dimensions:
  	* Foundation-building steps for long-term growth
  	* Continuous activities maintaining sustained value
  	* Momentum-building activities for future value
 
-3. **Core Values Alignment**
+3. **Core Values Alignment** 📐
    - Engaging in activities that reinforce core values is valuable in itself, regardless of measurable outcomes.
    - 32% alignment with primary values like Impact & Innovation
    - 28% alignment with secondary values such as Family Bonds & Connection
    - The relationship between core values alignment and value generation is examined both within and outside the pursuit of specific goals.
 
-4. **Resource Allocation Patterns**
-   - Pareto Distribution: While 23% of activities are responsible for generating the majority of extrinsic value, this analysis acknowledges the role of luck and external inputs.
-   - Opportunity Costs: Due to the role of luck and the requirement of inputs from others, the analysis revealed the need to reorient activities where there is more control or autonomy over results.
-   - Continuous Inputs: Some goals and values require ongoing effort without a clear endpoint, emphasizing the importance of maintenance and consistency.
+4. **Resource Allocation Patterns** 📊
+   - **Pareto Distribution**: While 23% of activities are responsible for generating the majority of extrinsic value, this analysis acknowledges the role of luck and external inputs.
+   - **Opportunity Costs**: Due to the role of luck and the requirement of inputs from others, the analysis revealed the need to reorient activities where there is more control or autonomy over results.
+   - **Continuous Inputs**: Some goals and values require ongoing effort without a clear endpoint, emphasizing the importance of maintenance and consistency.
 
 ### Impact Analysis
 - **V.1 Focus**: The initial version emphasized the 80/20 principle, identifying that 23% of activities generated 80% of extrinsic value.
@@ -53,8 +53,7 @@ Our analysis revealed a holistic approach to time-value optimization, considerin
 
 ---
 
-## Advanced Insights & Lessons Learned
-
+## Advanced Insights & Lessons Learned 🔬
 ### Value Focus Evolution
 
 #### Historical Perspective
@@ -62,7 +61,7 @@ Our analysis revealed a holistic approach to time-value optimization, considerin
 - **2024 Approach**: Future value prioritization
 - **2025 Direction**: Balanced integration of long-term and short-term value
 
-#### Value Distribution Analysis
+#### Value Distribution Analysis 
 - Balanced life indicators shown through even distribution across time dimensions
 - Multi-faceted value creation spanning present state, immediate benefits, and future outcomes
 - Tri-dimensional priority balance across life (family), work (growth), and business (innovation)
@@ -76,7 +75,7 @@ Our analysis revealed a holistic approach to time-value optimization, considerin
 - **Continuous Value**: Ongoing activities that maintain momentum and well-being
 - **Intrinsic Value**: Happiness, fulfillment, and satisfaction in the here and now
 
-### Goal Categorization Insights
+### Goal Categorization Insights 📑
 
 #### Goal Time Horizons
 - Short-term (0-3 months)
@@ -91,7 +90,7 @@ Our analysis revealed a holistic approach to time-value optimization, considerin
 - Maintenance value (preventing decline)
 - Intrinsic value (happiness, fulfillment, and satisfaction in the here and now)
 
-## Key Discoveries
+## Key Discoveries 🔦
 
 ### Beyond Simple 80/20
 The traditional Pareto Principle provides a useful framework but requires nuanced application:
@@ -108,7 +107,7 @@ The primary purpose of goal tracking is to align activities to results and goals
 - Acknowledgment that not all activities need to be optimized for long-term results
 - Staying present and valuing time spent on activities that provide intrinsic value, such as happiness, fulfillment, or connection
 
-### Optimization Strategies
+### Optimization Strategies ➕
 
 #### Value Assessment
 - Consider both immediate and potential future value
@@ -130,7 +129,7 @@ The primary purpose of goal tracking is to align activities to results and goals
 
 ---
 
-## Implementation Framework
+## Implementation Framework 📋
 
 ### Goal-Activity Alignment Framework
 - Each activity is explicitly linked to a specific goal or core value
@@ -156,7 +155,7 @@ The primary purpose of goal tracking is to align activities to results and goals
 
 ---
 
-## Methodology
+## Methodology 📑
 
 ### Data Collection Framework
 - Duration: 12 months (February 2024 - January 2025)
@@ -172,35 +171,31 @@ The primary purpose of goal tracking is to align activities to results and goals
 
 ---
 
-## Tableau Visualization Methods
+## Tableau Visualization Methods 🖼️
 
-**1. Activity Trend**
-Visualization Type: Line Graph
-This visualization displays the average activity tracked on a month-to-month basis. It provides insight into trends over time, helping users identify patterns of engagement and periods of high or low activity. The x-axis represents the months, and the y-axis shows the average activity count.
-
-**2. Activity Distribution**
-Visualization Type: Horizontal Bar Graph
-This chart represents the distribution of activities across different categories. Each bar corresponds to a category, and the length of the bar indicates the number of times that category appears in the dataset. This visualization helps in understanding which categories dominate or are underrepresented in the data.
-
-**3. Value Analysis**
+**1. Activities to Goals**
 Visualization Type: Tree Map
-The tree map illustrates the distribution of activities by core values, providing a clear visual representation of the relative frequency of activities aligned with each value. Larger blocks represent higher frequencies, offering a quick snapshot of where activities contribute most to overarching values.
+This visualization shows the proportion of activities spent on goals, using size and color to represent volume. Major blocks include Business goals (BPIS implementation), Life goals (Happy Marriage & Family), and Development goals (Growth position). Each block's size represents the relative number of activities dedicated to that goal, providing an immediate visual understanding of time allocation across major life areas.
 
-**4. Core Values Alignment**
+**2. Time-Value Dimension**
 Visualization Type: Bubble Chart
-This chart highlights the proportion of activities that align with core values. Each bubble represents a core value, with the size of the bubble proportional to the frequency of activities aligned with that value. It visually emphasizes which core values are most frequently integrated into tracked activities.
+This visualization displays the proportion of value created based on time horizons including Future Value (largest proportion), Present Moment Value, Maintenance/Life Quality, Immediate Benefits, and Mental State Impact. The size of each bubble represents the volume of activities in each time dimension, showing the balance between future-oriented and present-focused activities.
 
-**5. Metrics**
-Visualization Type: Text Table
-A text-based metrics box provides a breakdown of activities by:
-- Value Generation: Activities categorized as High, Medium, or Low value.
-- Core Values vs. Short-Term Value Generation: The balance between activities aligned with long-term core values and those that prioritize short-term gains.
-- Optimization Rate: A percentage reflecting the alignment of high-value activities with core values.
-This text summary complements the visualizations by offering precise numeric insights for deeper understanding.
+**3. Value-Goals by Time Horizon**
+Visualization Type: Matrix/Cross-Tab
+This detailed breakdown shows the intersection of time dimensions (Present Moment, Mental State, Immediate Benefits, etc.) and specific goals (e.g., BPIS, Happy Marriage & Family). Quantities are shown numerically, allowing precise analysis of how different goals manifest across time horizons.
+
+**4. Goals by Value-Based Time Horizon**
+Visualization Type: Horizontal Bar Chart with Color Coding
+Shows goals categorized by their value-generation timeframe with activities for short-term or maintenance value, activities for immediate benefits or maintenance value, continuous activities for sustained value, and key actions building momentum for future value. Color coding helps distinguish between different value-generation types.
+
+**5. Metrics & Context Notes**
+Visualization Type: Text Annotations
+Key metrics and contextual information including activity counts, time dimension distributions, historical context ("Past habits prioritized goal attainment, while 2024 habits prioritize future value..."), and strategic insights about balance between short-term and long-term priorities. This dashboard provides multiple perspectives on the same data, allowing users to understand both the high-level patterns and detailed breakdowns of how activities align with goals across different time horizons.
 
 ---
 
-## Tools & Technology
+## Tools & Technology 🛠️
 
 ### Current Stack
 - Airtable for activity and goal tracking
@@ -217,7 +212,7 @@ This text summary complements the visualizations by offering precise numeric ins
 
 ---
 
-## Conclusion
+## Conclusion 🌌
 
 This iteration of the Time-Value Optimization Project emphasizes a more holistic approach to time management, broadening the definition of value to include intrinsic measures such as happiness and fulfillment. By examining value across present, short-term, and long-term horizons, this framework ensures a more balanced and meaningful allocation of time and resources. It acknowledges that not all time needs to be optimized for productivity or rewards, and some activities provide intrinsic value simply by being present and aligned with personal values. Continuous goals and values are prioritized, reinforcing the importance of consistency and maintenance alongside growth and achievement.
 
