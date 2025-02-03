@@ -1,7 +1,7 @@
 # Time-Value Optimization: Beyond 80/20
 
 **A Holistic Approach to Aligning Activities with Personal Values and Goals**  
-Analysis of 12 months of activity data (February 2024 - January 2025) to examine goal progress and value generation across present, short-term, and long-term time horizons.
+Analysis of 12 months of activity data (February 2024 - February 2025) to examine goal progress and value generation across present, short-term, and long-term time horizons.
 
 ### [Live Dashboard](https://public.tableau.com/views/Time-OptimizationV_2Beyond8020Analysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
