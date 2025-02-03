@@ -23,6 +23,7 @@ Our analysis revealed a holistic approach to time-value optimization, considerin
    - The primary purpose of this tool is to **align daily activities with personal goals and values**, answering the question: *Why am I doing what I'm doing?*
    - Activities are **categorized by their contribution to short-term, mid-term, long-term, or continuous goals**.
    - **Continuous goals**, such as maintaining a happy marriage or fostering personal well-being, **require consistent effort without a specific endpoint or measurable payoff.**
+![Activities to Goals Tree Map](data-vis-1.png)
 
 2. **Time-Value Alignment** ⏲️
    - **Multi-Dimensional Value Creation:** Analysis reveals a balanced distribution across time horizons, from present moment to future value generation.
@@ -32,17 +33,20 @@ Our analysis revealed a holistic approach to time-value optimization, considerin
  	   * Foundation-building steps for long-term growth
  	   * Continuous activities maintaining sustained value
  	   * Momentum-building activities for future value
+![Time-Value Dimension Bubble Chart](data-vis-2.png)
 
 3. **Core Values Alignment** 📐
    - Engaging in activities that reinforce core values is valuable in itself, regardless of measurable outcomes.
       - 32% alignment with primary values like Impact & Innovation
       - 28% alignment with secondary values such as Family Bonds & Connection
    - The relationship between core values alignment and value generation is examined both within and outside the pursuit of specific goals.
+![Value-Goals Matrix](data-vis-3.png)
 
 4. **Resource Allocation Patterns** 📊
    - **Pareto Distribution**: While 23% of activities are responsible for generating the majority of extrinsic value, this analysis acknowledges the role of luck and external inputs.
    - **Opportunity Costs**: Due to the role of luck and the requirement of inputs from others, the analysis revealed the need to reorient activities where there is more control or autonomy over results.
    - **Continuous Inputs**: Some goals and values require ongoing effort without a clear endpoint, emphasizing the importance of maintenance and consistency.
+![Goals by Time Horizon Chart](data-vis-4.png)
 
 ### Impact Analysis
 - **V.1 Focus**: The initial version emphasized the 80/20 principle, identifying that 23% of activities generated 80% of extrinsic value.
@@ -173,24 +177,19 @@ The primary purpose of goal tracking is to align activities to results and goals
 
 ## Tableau Visualization Methods 🖼️
 
-
 **1. Activities to Goals**
-![Activities to Goals Tree Map](data-vis-1.png)
 Visualization Type: Tree Map
 This visualization shows the proportion of activities spent on goals, using size and color to represent volume. Major blocks include Business goals (BPIS implementation), Life goals (Happy Marriage & Family), and Development goals (Growth position). Each block's size represents the relative number of activities dedicated to that goal, providing an immediate visual understanding of time allocation across major life areas.
 
 **2. Time-Value Dimension**
-![Time-Value Dimension Bubble Chart](data-vis-2.png)
 Visualization Type: Bubble Chart
 This visualization displays the proportion of value created based on time horizons including Future Value (largest proportion), Present Moment Value, Maintenance/Life Quality, Immediate Benefits, and Mental State Impact. The size of each bubble represents the volume of activities in each time dimension, showing the balance between future-oriented and present-focused activities.
 
 **3. Value-Goals by Time Horizon**
-![Value-Goals Matrix](data-vis-3.png)
 Visualization Type: Matrix/Cross-Tab
 This detailed breakdown shows the intersection of time dimensions (Present Moment, Mental State, Immediate Benefits, etc.) and specific goals (e.g., BPIS, Happy Marriage & Family). Quantities are shown numerically, allowing precise analysis of how different goals manifest across time horizons.
 
 **4. Goals by Value-Based Time Horizon**
-![Goals by Time Horizon Chart](data-vis-4.png)
 Visualization Type: Horizontal Bar Chart with Color Coding
 Shows goals categorized by their value-generation timeframe with activities for short-term or maintenance value, activities for immediate benefits or maintenance value, continuous activities for sustained value, and key actions building momentum for future value. Color coding helps distinguish between different value-generation types.
 
