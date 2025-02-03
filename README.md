@@ -5,7 +5,7 @@ Analysis of 12 months of activity data (February 2024 - February 2025) to examin
 
 ### [Live Dashboard](https://public.tableau.com/views/Time-OptimizationV_2Beyond8020Analysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Dashboard Overview](time-value-dashboard-2.png)
+![Dashboard Overview](time-value-dashboard.png)
 
 ---
 
