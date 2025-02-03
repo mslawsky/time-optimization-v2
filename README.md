@@ -29,9 +29,9 @@ Our analysis revealed a holistic approach to time-value optimization, considerin
    - **Evolution of Focus:** Shifted from goal-achievement-centric (past) to future-value-prioritization (2024), with 2025 targeting equilibrium between long-term and short-term value.
    - **Life-Work-Business Balance**: Clear alignment across three major priorities: family life (Happy Marriage & Family), professional growth (higher level position), and business innovation (BPIS).
    - **Value Generation Patterns:** Activities naturally cluster into three key dimensions:
- 	* Foundation-building steps for long-term growth
- 	* Continuous activities maintaining sustained value
- 	* Momentum-building activities for future value
+ 	   * Foundation-building steps for long-term growth
+ 	   * Continuous activities maintaining sustained value
+ 	   * Momentum-building activities for future value
 
 3. **Core Values Alignment** 📐
    - Engaging in activities that reinforce core values is valuable in itself, regardless of measurable outcomes.
