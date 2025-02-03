@@ -17,7 +17,7 @@ Analysis of 12 months of activity data (February 2024 - January 2025) to examine
 
 ### Strategic Insights: 💡
 
-Our analysis revealed a holistic approach to time-value optimization, considering time-to-value, core values, and the balance between short-term, long-term, and continuous priorities. This framework broadens the definition of value to include intrinsic value (e.g., happiness, fulfillment) alongside extrinsic outcomes, ensuring a more balanced and meaningful allocation of time and resources.
+This analysis revealed a holistic approach to time-value optimization, considering time-to-value, core values, and the balance between short-term, long-term, and continuous priorities. This framework broadens the definition of value to include intrinsic value (e.g., happiness, fulfillment) alongside extrinsic outcomes, ensuring a more balanced and meaningful allocation of time and resources.
 
 1. **Activity Results - Goals Alignment** 🎯
    - The primary purpose of this tool is to **align daily activities with personal goals and values**, answering the question: *Why am I doing what I'm doing?*
