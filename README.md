@@ -35,8 +35,8 @@ Our analysis revealed a holistic approach to time-value optimization, considerin
 
 3. **Core Values Alignment** 📐
    - Engaging in activities that reinforce core values is valuable in itself, regardless of measurable outcomes.
-   - 32% alignment with primary values like Impact & Innovation
-   - 28% alignment with secondary values such as Family Bonds & Connection
+      - 32% alignment with primary values like Impact & Innovation
+      - 28% alignment with secondary values such as Family Bonds & Connection
    - The relationship between core values alignment and value generation is examined both within and outside the pursuit of specific goals.
 
 4. **Resource Allocation Patterns** 📊
